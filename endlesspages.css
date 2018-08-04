@@ -1,0 +1,27 @@
+nav ul li { 
+	list-style-type:none; 
+	display: inline-block; 
+	padding: 10px; 
+	float: right; 
+	font-family: Medusa Gothic, Verdana; 
+} 
+
+h1 { 
+	font-family: Medusa Gothic, Verdana; 
+} 
+
+body { 
+	overflow: auto; 
+	font-family: Falling Sky; 
+} 
+
+.background { 
+	height: 400; 
+} 
+
+#features ul li { 
+	list-style-type: none; 
+	display: block; 
+	font-size: 200%;
+	float: left;
+} 
