@@ -1,3 +1,3 @@
 # endlesspages-
-A writing website which is a word in progress. 
+A website meant for publishing and creating stories. 
 Any who can commit and comment are free to do so as you wish. It is early in the development so nothing is finalized. 
