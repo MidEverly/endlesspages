@@ -1,0 +1,33 @@
+nav ul li { 
+	list-style-type: none; 
+	display: inline-block; 
+	padding: 25px;
+} 
+
+nav { 
+	width: 100%;
+} 
+
+body { 
+	font-family: Falling Sky;
+	overflow: auto;
+} 
+
+div {
+	height: 300 
+} 
+
+
+h3 {
+	font-family: Fabrica; 
+} 
+
+div ul li  { 
+	display:inline-block; 
+	font-family: Falling Sky;
+} 
+
+div #curated { 
+	font-family: Fabrica; 
+	display: block; 
+} 
