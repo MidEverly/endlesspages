@@ -1,4 +1,4 @@
-
+Rules: 
 <ol> 
   <li> Please try to follow the font and layout as much as possible. If you wish to use other fonts, please specify your reasons why. 
   </li> 
@@ -8,3 +8,4 @@
   <li> So, if you do please send me a message or an email detailing why you're interested in this project. </li> 
   <li> Font used should be either Falling Sky or Fabrica </li> 
   <li> Header font is Medusa Gothic </li> 
+</ol> 
