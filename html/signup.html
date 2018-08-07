@@ -18,7 +18,7 @@
 </ul> 
 </nav> 
 <div class='forms'> 
-<form action='/action.php' method='post'> 
+<form action='<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>' method='post'> 
 <legend> 
 <fieldset>
 <h1> Sign up </h1> <br> 
