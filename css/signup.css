@@ -1,0 +1,17 @@
+form { 
+	text-align: center; 
+	margin-left: 25%; 
+	margin-right: 25%; 
+	padding: 25px; 
+	width: 50%; 
+} 
+
+legend, fieldset { 
+	color: #191970;
+} 
+
+input { 
+	border-radius: 5px; 
+	padding: 5px; 
+	margin-bottom: 15px; 
+} 
