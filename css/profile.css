@@ -1,0 +1,54 @@
+
+nav ul li { 
+	list-style-type: none; 
+	display: inline-block; 
+	padding: 25px;
+} 
+
+nav { 
+	width: 100%;
+} 
+
+img { 
+	width: 250; 
+	height: 250; 
+	margin-left: 10%;
+	border-radius: 50%;
+	float: left; 
+} 
+
+p #bio { 
+	height: 300; 
+	overflow: hide; 
+} 
+
+input[type='image'] { 
+	height: 25; 
+	width: 25; 
+	margin-bottom: 15px; 
+	margin-left: 10px; 
+} 
+
+body { 
+	font-family: Falling Sky;
+	overflow: auto;
+} 
+
+div.info {
+	margin-bottom: 40%;
+	float: right; 
+	margin-right: 30%; 
+} 
+
+button { 
+	padding: 10px; 
+	background-color: blue;
+} 
+
+#stories div { 
+	margin-bottom: 10%; 
+} 
+
+#username { 
+	font-size: 200%; 
+} 
