@@ -15,18 +15,18 @@
 </ul>
 </nav> 
 <div class='forms'> 
-<form action='<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>' method='post'> 
-<legend> 
+<form name='signup' action='signup_post.php' method='post'> 
+<legend>
 <fieldset>
 <h1> Sign up </h1> <br> 
-Username <input type='text'> <br>
-Email <input type='email'><br>  
-Password <input type='password'> <br> 
-Date Of Birth <input type='date'> <br> 
-<button> Submit </button> 
+Username <input type='text' name='name'> <br>
+Email <input type='email' name='email'><br>  
+Password <input type='password' name='password'> <br> 
+<button onclick ='save()'> Submit </button> 
 </div> 
 </fieldset> 
 </legend> 
 </form> 
+<script src='signup.js'> 
 </body> 
 </html> 
